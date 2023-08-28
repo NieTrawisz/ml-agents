@@ -1,0 +1,2 @@
+wejscie do sieci: ml-agents-envs\mlagents_envs\envirenement.py->step
+start: ml-agents\mlagents\trainers\learn.py->run_cli
